@@ -12,10 +12,10 @@
      somente dígitos: 55 (Brasil) + DDD + número.
   ------------------------------------------------------------- */
   var CONFIG = {
-    whatsappNumber: "5511900000000", // <-- ALTERAR: 55 + DDD + número (somente dígitos)
+    whatsappNumber: "558599106286", // <-- ALTERAR: 55 + DDD + número (somente dígitos)
     whatsappMessage:
       "Olá! Gostaria de agendar uma consulta com o escritório Magalhães & Soares Advocacia.",
-    contactEmail: "contato@magalhaesesoares.adv.br", // <-- ALTERAR
+    contactEmail: "magalhaesesoaresadv@gmail.com", // <-- ALTERAR
     // Opcional: endpoint de formulário (ex.: Formspree "https://formspree.io/f/xxxx").
     // Se ficar vazio, o formulário abre o e-mail do cliente como alternativa.
     formEndpoint: ""
