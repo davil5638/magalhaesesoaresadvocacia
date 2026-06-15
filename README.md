@@ -53,9 +53,9 @@ Os dados abaixo são **placeholders**. Procure e substitua pelos dados reais do 
 ### 1. Telefone / WhatsApp / e-mail  → `js/main.js` (objeto `CONFIG`, no topo)
 ```js
 var CONFIG = {
-  whatsappNumber: "5511900000000",   // 55 + DDD + número (somente dígitos)
+  whatsappNumber: "5585999106286",   // 55 + DDD + número (somente dígitos)
   whatsappMessage: "Olá! Gostaria de agendar uma consulta...",
-  contactEmail: "magalhaesesoaresadv@gmail",
+  contactEmail: "magalhaesesoaresadv@gmail.com",
   formEndpoint: ""                    // ver seção "Formulário" abaixo
 };
 ```
