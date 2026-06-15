@@ -55,7 +55,7 @@ Os dados abaixo são **placeholders**. Procure e substitua pelos dados reais do 
 var CONFIG = {
   whatsappNumber: "5511900000000",   // 55 + DDD + número (somente dígitos)
   whatsappMessage: "Olá! Gostaria de agendar uma consulta...",
-  contactEmail: "contato@magalhaesesoares.adv.br",
+  contactEmail: "magalhaesesoaresadv@gmail",
   formEndpoint: ""                    // ver seção "Formulário" abaixo
 };
 ```
