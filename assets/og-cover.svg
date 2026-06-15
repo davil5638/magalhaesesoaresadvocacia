@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Magalhães &amp; Soares Advocacia">
+  <defs>
+    <linearGradient id="og" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F2942"/>
+      <stop offset="1" stop-color="#06121F"/>
+    </linearGradient>
+    <radialGradient id="ogglow" cx="0.85" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#C2A36B" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#C2A36B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#og)"/>
+  <rect width="1200" height="630" fill="url(#ogglow)"/>
+  <rect x="40" y="40" width="1120" height="550" fill="none" stroke="#C2A36B" stroke-opacity="0.35" stroke-width="2"/>
+  <g transform="translate(140 315)" stroke="#C2A36B" stroke-width="3.5" fill="none" stroke-linecap="round" opacity="0.9">
+    <line x1="0" y1="-70" x2="0" y2="75"/>
+    <line x1="-85" y1="-70" x2="85" y2="-70"/>
+    <circle cx="0" cy="-78" r="7" fill="#C2A36B" stroke="none"/>
+    <line x1="-38" y1="75" x2="38" y2="75"/>
+    <line x1="-85" y1="-70" x2="-112" y2="-16"/><line x1="-85" y1="-70" x2="-58" y2="-16"/>
+    <line x1="85" y1="-70" x2="58" y2="-16"/><line x1="85" y1="-70" x2="112" y2="-16"/>
+    <path d="M-112 -16 A27 27 0 0 0 -58 -16Z" fill="#C2A36B" fill-opacity="0.10"/>
+    <path d="M58 -16 A27 27 0 0 0 112 -16Z" fill="#C2A36B" fill-opacity="0.10"/>
+  </g>
+  <text x="330" y="290" font-family="Georgia, serif" font-size="74" font-weight="600" fill="#F6F4EE">Magalhães &amp; Soares</text>
+  <text x="332" y="350" font-family="Inter, Arial, sans-serif" font-size="26" fill="#C2A36B" letter-spacing="10">A D V O C A C I A</text>
+  <text x="332" y="410" font-family="Inter, Arial, sans-serif" font-size="22" fill="#9FB0C2">Atendimento jurídico próximo, ético e personalizado.</text>
+</svg>
