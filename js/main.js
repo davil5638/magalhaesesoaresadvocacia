@@ -18,7 +18,7 @@
     contactEmail: "magalhaesesoaresadv@gmail.com",
     // Opcional: endpoint de formulário (ex.: Formspree "https://formspree.io/f/xxxx").
     // Se ficar vazio, o formulário abre o e-mail do cliente como alternativa.
-    formEndpoint: ""
+    formEndpoint: "https://formspree.io/f/xzdlzade"
   };
 
   var $  = function (s, c) { return (c || document).querySelector(s); };
